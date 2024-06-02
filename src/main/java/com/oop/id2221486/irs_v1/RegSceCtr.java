@@ -90,7 +90,7 @@ map.put(s1.toString(),s1);
             textArea.setText(sk.toString());
             // Key exists, you can proceed with your logic here
         } else {
-            textArea.setText("Not find in hash map");
+            textArea.setText("Not find in hash map now ");
             // Key does not exist
         }
     }
